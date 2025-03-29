@@ -306,3 +306,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+{
+  "scripts": {
+    "start": "node app.py"
+  }
+}
